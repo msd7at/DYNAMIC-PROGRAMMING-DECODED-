@@ -1,4 +1,5 @@
 #https://leetcode.com/problems/arithmetic-slices/
+#https://leetcode.com/problems/arithmetic-slices/discuss/982169/Faster-than-99.44-PYTHON-3-Simple-solution
 class Solution:
     def numberOfArithmeticSlices(self, A: List[int]) -> int:
         le=len(A)
